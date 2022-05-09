@@ -1,2 +1,2 @@
 # Project-2
-This project do registration for new member and this its information using database
+This project do registration for new member and save data to database
